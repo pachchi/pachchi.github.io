@@ -1,0 +1,80 @@
+body{
+background-image:url("pbackground1.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+ul img.icon{
+border-radius:30%;
+height:10%; 
+width:10%;
+}
+ul {
+position:fixed;
+    list-style-type: none;
+    margin-top:13%;
+    padding: 0;
+    width:20%;
+	height:0px;
+    background-color:rgb(180,180,180);
+	text-align:center;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 20px 16px;
+    text-decoration: none;
+	font-family:Buxton Sketch;
+	font-size:50px;
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+div{
+background-color:rgb(180,180,180);
+width:45%;
+height:5%;
+margin-left:28%;
+position:fixed;
+margin-top:8%;
+box-shadow:15px 15px 5px grey;
+padding:30px;
+font-family:Buxton Sketch;
+font-size:30px;
+    -webkit-transition: width 5s;
+	-webkit-transition: height 5s;
+    transition: width 5s;
+	transition: height 5s;
+}
+ol{
+display:none;
+}
+div:hover {
+    width:45%;
+height:62%;
+margin-left:28%;
+position:fixed;
+margin-top:8%;
+}
+div:hover  ol{
+ display:block;
+}
+ol{
+padding-top:3%;
+padding-left:8%;
+}
+.list li{
+padding:5%;
+}
+div:visited {
+    width:45%;
+height:62%;
+margin-left:28%;
+position:fixed;
+margin-top:8%;
+}
+div:visited  ol{
+ display:block;
+}
+

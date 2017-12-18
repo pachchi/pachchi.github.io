@@ -1,0 +1,121 @@
+body{
+background-image:url("pbackground1.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+ul img.icon{
+border-radius:30%;
+height:10%; 
+width:10%;
+}
+ul {
+position:fixed;
+    list-style-type: none;
+    margin-top:13%;
+    padding: 0;
+    width:20%;
+	height:0px;
+    background-color:rgb(180,180,180);
+	text-align:center;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 20px 16px;
+    text-decoration: none;
+	font-family:Buxton Sketch;
+	font-size:50px;
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+div.polaroid1 {
+  background-color:rgb(180,180,180);
+  height:25%;
+  width:15%;
+  margin-left:28%;
+  margin-top:8%;
+  position:fixed;
+  box-shadow:10px 10px 5px grey;
+  -ms-transform: rotate(-20deg);
+    -webkit-transform: rotate(-20deg);
+    transform: rotate(-20deg);
+}
+div.container1 {
+background-color:rgb(180,180,180);
+  text-align: center;
+  color:black;
+  padding: 5% 20px;
+  font-family:Buxton Sketch;
+font-size:30px;
+font-weight:bold;
+box-shadow:10px 10px 5px grey;
+}
+div.polaroid2{
+  background-color:rgb(180,180,180);
+  height:25%;
+  width:15%;
+  margin-left:45%;
+  margin-top:25%;
+  position:fixed;
+  box-shadow:10px 10px 5px grey;
+  -ms-transform: rotate(10deg);
+    -webkit-transform: rotate(10deg);
+    transform: rotate(10deg);
+}
+div.container2 {
+background-color:rgb(180,180,180);
+  text-align: center;
+  color:black;
+  padding: 5% 20px;
+  font-family:Buxton Sketch;
+font-size:30px;
+font-weight:bold;
+box-shadow:10px 10px 5px grey;
+}
+div.polaroid3{
+  background-color:rgb(180,180,180);
+  height:25%;
+  width:15%;
+  margin-left:60%;
+  margin-top:5%;
+  position:fixed;
+  box-shadow:10px 10px 5px grey;
+  -ms-transform: rotate(10deg);
+    -webkit-transform: rotate(10deg);
+    transform: rotate(10deg);
+}
+div.container3 {
+background-color:rgb(180,180,180);
+  text-align: center;
+  color:black;
+  padding: 5% 20px;
+  font-family:Buxton Sketch;
+font-size:30px;
+font-weight:bold;
+box-shadow:10px 10px 5px grey;
+}
+div.polaroid4{
+  background-color:rgb(180,180,180);
+  height:25%;
+  width:15%;
+  margin-left:70%;
+  margin-top:23%;
+  position:fixed;
+  box-shadow:10px 10px 5px grey;
+  -ms-transform: rotate(-20deg);
+    -webkit-transform: rotate(-20deg);
+    transform: rotate(-20deg);
+}
+div.container4{
+background-color:rgb(180,180,180);
+  text-align: center;
+  color:black;
+  padding: 5% 20px;
+  font-family:Buxton Sketch;
+font-size:30px;
+font-weight:bold;
+box-shadow:10px 10px 5px grey;
+}
